@@ -1,1 +1,6 @@
-# 这个文档主要介绍端到端的机器学习知识
+# Guide
+This Article Mainly contains the basic knowledge of Deep Learning.
+include three parts:
+1. Algorithm
+2. Math 
+3. Paper
