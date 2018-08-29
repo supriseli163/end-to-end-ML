@@ -10,3 +10,5 @@ and aims to record the process of writing master degree paper of Computer Scienc
 # Author
 Author is a java software engineer. Main interest include Java,python,and Machine Learning.
 He is expert in Large scale backend Internet System. Concurrent and High available circumstance.
+# Email
+Welcome to talk about technology problem and communication. My Email is supriseli@163.com
