@@ -5,7 +5,7 @@ and aims to record the process of writing master degree paper of Computer Scienc
 #include three parts#
 1. Algorithm
 2. Math 
-3. Paper
+3. Article
 
 # Author
 Author is a java software engineer. Main interest include Java,python,and Machine Learning.
