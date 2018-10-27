@@ -15,3 +15,4 @@ RNN基本结构
 
 ## 参考资料
 [1] 网课https://www.bilibili.com/video/av18569005?from=search&seid=9686070882231431361
+[2] 随时间反向传播 https://www.cnblogs.com/wacc/p/5341670.html
